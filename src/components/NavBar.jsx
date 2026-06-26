@@ -7,7 +7,7 @@ import {
   FaFileUpload,
   FaUserEdit,
 } from "react-icons/fa";
-import dashboard from "../assets/dashboardicon.svg";
+import dashboard from "../assets/dashboardIcon.svg";
 import profileIcon from "../assets/profileIcon.svg";
 import settingsIcon from "../assets/settings.svg";
 import uploadIcon from "../assets/uploadIcon.svg";
